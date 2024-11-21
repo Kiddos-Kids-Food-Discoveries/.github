@@ -1,4 +1,3 @@
-https://calcium-sunbeam-441101-b4.et.r.appspot.com/
 
 ## What is Kiddos?
 Kiddos (Kids' Food Discoveries) is an educational app for children and parents, the main features of the app include food scanning, translating food names into different languages, and providing nutritional information for the scanned food. Additionally, there is an optional feature for recipe recommendations for parents based on their scanning history.
