@@ -9,7 +9,7 @@ Kiddos (Kids' Food Discoveries) is an educational app for children and parents, 
 ## Authors by Team ID: `C242-PS107`
 | Name | Learning Path | Student ID | Github-Profile |
 | ------ | ------ | ------ |------ |
-| Desak Putu Tia Rusilia Wati | Machine Learning | `M014B4KX1051` | [@DexKawi](https://github.com/DexKawi)  |
+| Desak Putu Tia Rusilia Wati | Machine Learning | `M014B4KX1051` | [@sakti0009](https://github.com/sakti0009)  |
 | Merry Royanti Manalu | Machine Learning | `M014B4KX2469` | [@merryroyanti24](https://github.com/merryroyanti24)|
 | Pande Komang Indah Triroshanti | Machine Learning | `M014B4KX3472` | [@indahtr](https://github.com/indahtr)  |
 | I Gede Agus Handika Pratama | Cloud Computing | `C014B4KY1807` | [@PraDika24](https://github.com/PraDika24)  |
