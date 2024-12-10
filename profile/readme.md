@@ -10,11 +10,11 @@ Kiddos (Kids' Food Discoveries) is an educational app for children and parents, 
 | Name | Learning Path | Student ID | Github-Profile |
 | ------ | ------ | ------ |------ |
 | Desak Putu Tia Rusilia Wati | Machine Learning | M014B4KX1051 | [@DexKawi](https://github.com/DexKawi)  |
-| Merry Royanti Manalu | Machine Learning | M014B4KX2469 | [@DexKawi](https://github.com/DexKawi)|
-| Pande Komang Indah Triroshanti | Machine Learning | M014B4KX3472 | [@DexKawi](https://github.com/DexKawi)  |
+| Merry Royanti Manalu | Machine Learning | M014B4KX2469 | [@merryroyanti24](https://github.com/merryroyanti24)|
+| Pande Komang Indah Triroshanti | Machine Learning | M014B4KX3472 | [@indahtr](https://github.com/indahtr)  |
 | I Gede Agus Handika Pratama | Cloud Computing | C014B4KY1807 | [@PraDika24](https://github.com/PraDika24)  |
 | I Made Kawiarsa | Cloud Computing | C113B4KY1856 | [@DexKawi](https://github.com/DexKawi) |
-| I Made Adiguna Arya Riastha | Mobile Development | A014B4KY1850 | [@DexKawi](https://github.com/DexKawi) |
+| I Made Adiguna Arya Riastha | Mobile Development | A014B4KY1850 | [@Adigunaary](https://github.com/Adigunaary) |
 | I Gede Bagus Kelvin Andhika | Mobile Development | A014B4KY1809 | [@MissingPoma](https://github.com/MissingPoma) |
 
 ---
