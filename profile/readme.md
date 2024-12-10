@@ -9,13 +9,13 @@ Kiddos (Kids' Food Discoveries) is an educational app for children and parents, 
 ## Authors by Team ID: `C242-PS107`
 | Name | Learning Path | Student ID | Github-Profile |
 | ------ | ------ | ------ |------ |
-| Desak Putu Tia Rusilia Wati | Machine Learning | M014B4KX1051 | |
-| Merry Royanti Manalu | Machine Learning | M014B4KX2469 | |
-| Pande Komang Indah Triroshanti | Machine Learning | M014B4KX3472 | |
-| I Gede Agus Handika Pratama | Cloud Computing | C014B4KY1807 |  |
-| I Made Kawiarsa | Cloud Computing | C113B4KY1856 | |
-| I Made Adiguna Arya Riastha | Mobile Development | A014B4KY1850 | |
-| I Gede Bagus Kelvin Andhika | Mobile Development | A014B4KY1809 | |
+| Desak Putu Tia Rusilia Wati | Machine Learning | M014B4KX1051 | [@DexKawi](https://github.com/DexKawi)  |
+| Merry Royanti Manalu | Machine Learning | M014B4KX2469 | [@DexKawi](https://github.com/DexKawi)|
+| Pande Komang Indah Triroshanti | Machine Learning | M014B4KX3472 | [@DexKawi](https://github.com/DexKawi)  |
+| I Gede Agus Handika Pratama | Cloud Computing | C014B4KY1807 | [@PraDika24](https://github.com/PraDika24)  |
+| I Made Kawiarsa | Cloud Computing | C113B4KY1856 | [@DexKawi](https://github.com/DexKawi) |
+| I Made Adiguna Arya Riastha | Mobile Development | A014B4KY1850 | [@DexKawi](https://github.com/DexKawi) |
+| I Gede Bagus Kelvin Andhika | Mobile Development | A014B4KY1809 | [@MissingPoma](https://github.com/MissingPoma) |
 
 ---
 # Tech Stack
