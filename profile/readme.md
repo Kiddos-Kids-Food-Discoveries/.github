@@ -1,7 +1,7 @@
 <img src="https://i.postimg.cc/XJKNG9VQ/Logo-App-Kiddos-V2-01.png" alt="Logo" width="200"/>
 
 ## What is Kiddos?
-Kiddos (Kids' Food Discoveries) is an educational app for children and parents, the main features of the app include food scanning, translating food names into different languages, and providing nutritional information for the scanned food. Additionally, there is an optional feature for recipe recommendations for parents based on their scanning history.
+Kiddos (Kids' Food Discoveries) is an educational app for children and parents, the main features of the app include food scanning, translating food names into different languages, and providing nutritional information for the scanned food.
 
 ## Kiddos Machine Learning Project
 
