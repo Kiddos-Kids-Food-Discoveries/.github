@@ -4,8 +4,6 @@
 Kiddos (Kids' Food Discoveries) is an educational app for children and parents, the main features of the app include food scanning, translating food names into different languages, and providing nutritional information for the scanned food.
 
 ## Kiddos Machine Learning Project
-Kiddos: Kids Food Discoveries
-
 Kiddos is a mobile app designed to help children learn about food in a fun and interactive way. With this app, kids can scan real food items to discover their names, English terms, and nutritional facts. By combining education and technology, Kiddos promotes healthy eating habits while supporting language learning. The app focuses on making the process of learning about fruits, vegetables, and other foods simple and engaging for young users. Leveraging machine learning, Kiddos transforms everyday food into an exciting educational experience for children.
 
 Kiddos Machine Learning Project Background: Indonesia faces a significant challenge in educating the next generation. According to data from Badan Pusat Statistik (BPS), 33.44% of young children in Indonesia are gadget users, with 25.5% of them aged 0-4 years and 52.76% aged 5-6 years. Unfortunately, there is very little educational and interactive content available to support children’s knowledge development. Additionally, parents' busy schedules often make it difficult for them to provide adequate education for their children.
