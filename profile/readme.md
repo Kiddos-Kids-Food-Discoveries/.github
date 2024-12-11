@@ -4,6 +4,16 @@
 Kiddos (Kids' Food Discoveries) is an educational app for children and parents, the main features of the app include food scanning, translating food names into different languages, and providing nutritional information for the scanned food.
 
 ## Kiddos Machine Learning Project
+Kiddos: Kids Food Discoveries
+
+Kiddos is a mobile app designed to help children learn about food in a fun and interactive way. With this app, kids can scan real food items to discover their names, English terms, and nutritional facts. By combining education and technology, Kiddos promotes healthy eating habits while supporting language learning. The app focuses on making the process of learning about fruits, vegetables, and other foods simple and engaging for young users. Leveraging machine learning, Kiddos transforms everyday food into an exciting educational experience for children.
+
+Kiddos Machine Learning Project Background: Indonesia faces a significant challenge in educating the next generation. According to data from Badan Pusat Statistik (BPS), 33.44% of young children in Indonesia are gadget users, with 25.5% of them aged 0-4 years and 52.76% aged 5-6 years. Unfortunately, there is very little educational and interactive content available to support children’s knowledge development. Additionally, parents' busy schedules often make it difficult for them to provide adequate education for their children.
+
+Through the capstone project Kiddos (Kids Food Discoveries), we offer a solution in the form of an interactive learning application that allows children to recognize various types of food, learn about their nutritional content, and understand food terms in English. This application leverages machine learning technology (image classification), enabling children to scan real food items and instantly receive information about their names, English translations, and nutritional content.
+
+We believe that introducing habits of understanding nutrition and learning foreign languages from an early age can help shape a generation that is more aware of the importance of nutrition and equipped with better language skills. This project aims to create a fun and easy learning experience, aligning with research that shows interactive learning methods are more effective for young children. With this approach, we hope to encourage Indonesian children to become more familiar with, understand, and enjoy healthy foods, especially fruits and vegetables, while also supporting the improvement of their language skills.
+
 
 
 ## Authors by Team ID: `C242-PS107`
