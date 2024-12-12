@@ -49,7 +49,7 @@ Dataset Links of This Project :
 ## Deployment Link APK Kiddos
 
 Download Link APK Kiddos :<br>
-[Kiddos APK (Google Drive)](#)
+[Kiddos APK (Google Drive)](https://drive.google.com/drive/u/0/folders/1Y7Kl14a0OtEb7kMW8SJn-ekroZddZFlk)
 
 
 ## Languages and Tools:
